@@ -1,17 +1,17 @@
 ## iMovie Shortcuts
 
 #### Preview
-- l- play
-- k- stop/pause
-- ll- speed up
-- lll- very fast speed up
-- jj- speed backwards
-- jjj- very fast backwards
-- i- zoom in
-- o- zoom out
-- F-add to favorite (green line)
-- U- cancel
-- Delete- dislike
+- **`l`**: play
+- **`k`**: stop/pause
+- **`ll`**: speed up
+- **`lll`**: very fast speed up
+- **`jj`**: speed backwards
+- **`jjj`**: very fast backwards
+- **`i`**: zoom in
+- **`o`**: zoom out
+- **`F`**: add to favorite (green line)
+- **`U`**: cancel
+- **`Delete`**: dislike
 
 #### Edit
 - E- add to end
